@@ -1,0 +1,1 @@
+Download the competion data from: https://inclass.kaggle.com/c/loyal-customer-prediction, (*user_info.csv*, *user_log.csv*, *train_label.csv*, *test_label.csv*) and put it in the folder "data"
