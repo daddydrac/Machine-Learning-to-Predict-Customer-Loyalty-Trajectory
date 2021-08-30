@@ -34,9 +34,4 @@ This submission requires an installation of xgboost, vowpal wabbit, pandas, nump
 * Run *gen_features.py* to create the features files *train.csv* and *test.csv*
 * Run *gen_result.py* to create the ML output
 
-### Need help integrating machine learning for loyalty?
-If building impactful machine learning that delivers business value is important to you or your business, please [get in touch](https://www.linkedin.com/in/computer-vision-engineer/).
 
-### Contact
-
-Email: joehoeller@gmail.com
